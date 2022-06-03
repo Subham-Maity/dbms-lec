@@ -61,8 +61,9 @@ contains information relevant to an enterprise. The primary goal of a DBMS is to
 2. A DBMS is the database itself, along with all the software and functionality. It is used to perform different operations, like **addition**, **access**, **updating**, and **deletion** of the data.
 
 ## 7. 
-   ![](Aspose.Words.21f442ee-1d2d-4d75-bc7a-07de77432e50.002.jpeg) 
    
+   ![Aspose Words 21f442ee-1d2d-4d75-bc7a-07de77432e50 002](https://user-images.githubusercontent.com/97989643/171963382-28bb890a-9d8d-4152-8710-c754db9f578c.jpeg)
+
 ## 8. **DBMS vs File Systems**
 
 a. **File-processing systems** has major **disadvantages**.
@@ -79,4 +80,29 @@ i. Data Redundancy and inconsistency
 b. Above 7 are also the **Advantages of DBMS** (answer to  **Why to use DBMS?** )
 
 
-# **Lecture Slides** 
+# **Lecture Slides**
+![Lec-1_iPadNotes_2](https://user-images.githubusercontent.com/97989643/171963453-22453a2d-bf85-4d50-b3bc-7e69b1b5ac8e.jpeg)
+
+![Lec-1_iPadNotes_3](https://user-images.githubusercontent.com/97989643/171963466-673a8895-01b2-43f3-bf69-7a5ca3c2a68e.jpeg)
+
+![Lec-1_iPadNotes_4](https://user-images.githubusercontent.com/97989643/171963470-d75deca9-5ed7-4725-8614-e59bb22a8988.jpeg)
+
+![Lec-1_iPadNotes_5](https://user-images.githubusercontent.com/97989643/171963473-f7db0a27-b62f-48c8-b85f-7f550e898957.jpeg)
+
+![Lec-1_iPadNotes_6](https://user-images.githubusercontent.com/97989643/171963474-ef40782c-4a2d-42cc-8a93-9a1c4cdb2795.jpeg)
+
+![Lec-1_iPadNotes_7](https://user-images.githubusercontent.com/97989643/171963475-754c0220-2589-4474-a068-100759bab27d.jpeg)
+
+![Lec-1_iPadNotes_8](https://user-images.githubusercontent.com/97989643/171963476-a1ce0786-3876-4d92-91eb-9b50ba47b3cd.jpeg)
+
+![Lec-1_iPadNotes_9](https://user-images.githubusercontent.com/97989643/171963478-18ff1806-5995-46c7-9cbe-034d527cbf42.jpeg)
+
+![Lec-1_iPadNotes_10](https://user-images.githubusercontent.com/97989643/171963479-8496d76a-e6e6-4173-a7fb-7c131294e5b0.jpeg)
+
+![Lec-1_iPadNotes_11](https://user-images.githubusercontent.com/97989643/171963481-35fa6a49-8087-496d-bcd9-1f5f7fadafef.jpeg)
+
+
+
+
+
+
